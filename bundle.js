@@ -10173,20 +10173,11 @@ var __rest = (undefined && undefined.__rest) || function (s, e) {
     return t;
 };
 
-const DEFAULT_RESPONSIVE_WIDTHS = [640, 1280, 1920];
-const createSrcSet = (src, extension, widths) => {
-    return widths
-        .map((width) => {
-        const resizedSrc = src.replace(/\.(?:png|jpe?g)(?=\?|#|$)/i, `-${width}.${extension}`);
-        return `${resizedSrc} ${width}w`;
-    })
-        .join(', ');
-};
 const Img = (_a) => {
-    var { src, pictureClassName, sizes = '100vw', alt } = _a, imageProps = __rest(_a, ["src", "pictureClassName", "sizes", "alt"]);
-    const avifSrcSet = createSrcSet(src, 'avif', DEFAULT_RESPONSIVE_WIDTHS);
-    const webpSrcSet = createSrcSet(src, 'webp', DEFAULT_RESPONSIVE_WIDTHS);
-    return ((0,react_jsx_runtime_production_min_namespaceFn().jsxs)("picture", Object.assign({ className: pictureClassName }, { children: [(0,react_jsx_runtime_production_min_namespaceFn().jsx)("source", { srcSet: avifSrcSet, sizes: sizes, type: "image/avif" }), (0,react_jsx_runtime_production_min_namespaceFn().jsx)("source", { srcSet: webpSrcSet, sizes: sizes, type: "image/webp" }), (0,react_jsx_runtime_production_min_namespaceFn().jsx)("img", Object.assign({ src: src, alt: alt }, imageProps))] })));
+    var { src, pictureClassName, alt } = _a, imageProps = __rest(_a, ["src", "pictureClassName", "alt"]);
+    const avifSrc = src.replace(/\.(?:png|jpe?g)(?=\?|#|$)/i, '.avif');
+    const webpSrc = src.replace(/\.(?:png|jpe?g)(?=\?|#|$)/i, '.webp');
+    return ((0,react_jsx_runtime_production_min_namespaceFn().jsxs)("picture", Object.assign({ className: pictureClassName }, { children: [(0,react_jsx_runtime_production_min_namespaceFn().jsx)("source", { srcSet: avifSrc, type: "image/avif" }), (0,react_jsx_runtime_production_min_namespaceFn().jsx)("source", { srcSet: webpSrc, type: "image/webp" }), (0,react_jsx_runtime_production_min_namespaceFn().jsx)("img", Object.assign({ src: src, alt: alt }, imageProps))] })));
 };
 /* harmony default export */ const Img_Img = (Img);
 
