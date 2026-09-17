@@ -222,6 +222,12 @@ ___CSS_LOADER_EXPORT___.push([module.id, `.vHDqkUH8HtiZAy9ha2_f {
   height: 100%;
 }
 
+.I3vVHHr9xb6z0XY27FAP {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
 .ZjypuEmPWJfig5nEn8KU {
   position: absolute;
   margin: auto;
@@ -311,11 +317,12 @@ ___CSS_LOADER_EXPORT___.push([module.id, `.vHDqkUH8HtiZAy9ha2_f {
   align-items: center;
   padding-top: 3.75rem;
 }
-`, "",{"version":3,"sources":["webpack://./src/pages/Home/Home.module.css"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,mBAAmB;EACnB,WAAW;EACX,eAAe;EACf,mBAAmB;AACrB;;AAEA;EACE,WAAW;EACX,YAAY;AACd;;AAEA;EACE,kBAAkB;EAClB,YAAY;EACZ,OAAO;EACP,QAAQ;EACR,MAAM;EACN,SAAS;EACT,cAAc;AAChB;;AAEA;EACE,kBAAkB;EAClB,gBAAgB;EAChB,iBAAiB;EACjB,mBAAmB;EACnB,kBAAkB;AACpB;;AAEA;EACE,kBAAkB;EAClB,gBAAgB;EAChB,eAAe;EACf,iBAAiB;EACjB,kBAAkB;EAClB,oBAAoB;AACtB;;AAEA;EACE,kBAAkB;EAClB,cAAc;AAChB;;AAEA;EACE,cAAc;EACd,OAAO;EACP,QAAQ;EACR,cAAc;EACd,cAAc;EACd,kBAAkB;EAClB,gBAAgB;EAChB,iBAAiB;EACjB,mBAAmB;EACnB,kBAAkB;EAClB,YAAY;EACZ,kCAAkC;EAClC,mBAAmB;EACnB,eAAe;EACf,mCAAmC;AACrC;;AAEA;EACE,kCAAkC;AACpC;;AAEA;EACE,aAAa;EACb,uBAAuB;EACvB,WAAW;EACX,kBAAkB;EAClB,kBAAkB;EAClB;;;;;GAKC;AACH;;AAEA;EACE,YAAY;EACZ,+CAA+C;EAC/C,kBAAkB;AACpB;;AAEA;EACE,kBAAkB;EAClB,gBAAgB;EAChB,kBAAkB;EAClB,oBAAoB;EACpB,kBAAkB;EAClB,mBAAmB;AACrB;;AAEA;EACE,aAAa;EACb,sBAAsB;EACtB,mBAAmB;EACnB,oBAAoB;AACtB","sourcesContent":[".heroSection {\n  position: relative;\n  color: var(--white);\n  width: 100%;\n  height: 46.5rem;\n  padding-top: 3.5rem;\n}\n\n.heroImage {\n  width: 100%;\n  height: 100%;\n}\n\n.projectTitle {\n  position: absolute;\n  margin: auto;\n  left: 0;\n  right: 0;\n  top: 0;\n  bottom: 0;\n  height: 8.5rem;\n}\n\n.title {\n  font-style: italic;\n  font-weight: 700;\n  font-size: 4.5rem;\n  line-height: 4.5rem;\n  text-align: center;\n}\n\n.subtitle {\n  font-style: italic;\n  font-weight: 400;\n  font-size: 3rem;\n  line-height: 3rem;\n  text-align: center;\n  padding-top: 1.25rem;\n}\n\n.cta {\n  position: absolute;\n  bottom: 5.5rem;\n}\n\n.linkButton {\n  margin: 0 auto;\n  left: 0;\n  right: 0;\n  width: 23.5rem;\n  height: 3.5rem;\n  font-style: normal;\n  font-weight: 700;\n  font-size: 1.5rem;\n  line-height: 1.5rem;\n  text-align: center;\n  border: none;\n  background: var(--radial-gradient);\n  color: var(--white);\n  cursor: pointer;\n  transition: all 0.5s ease-in-out 0s;\n}\n\n.linkButton:hover {\n  background: var(--radial-gradient);\n}\n\n.featureSection {\n  display: flex;\n  justify-content: center;\n  width: 100%;\n  padding: 3.75rem 0;\n  text-align: center;\n  background: linear-gradient(\n    180deg,\n    rgba(232, 109, 198, 0.1) 0%,\n    rgba(232, 109, 198, 0.64248) 0.01%,\n    #bd00ff 77.6%\n  );\n}\n\n.featureSectionWrapper {\n  width: 65rem;\n  border-top: 2px solid rgba(255, 255, 255, 0.75);\n  padding: 3.75rem 0;\n}\n\n.featureTitle {\n  font-style: italic;\n  font-weight: 700;\n  font-size: 3.75rem;\n  line-height: 3.75rem;\n  text-align: center;\n  color: var(--white);\n}\n\n.featureItemContainer {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  padding-top: 3.75rem;\n}\n"],"sourceRoot":""}]);
+`, "",{"version":3,"sources":["webpack://./src/pages/Home/Home.module.css"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,mBAAmB;EACnB,WAAW;EACX,eAAe;EACf,mBAAmB;AACrB;;AAEA;EACE,WAAW;EACX,YAAY;AACd;;AAEA;EACE,cAAc;EACd,WAAW;EACX,YAAY;AACd;;AAEA;EACE,kBAAkB;EAClB,YAAY;EACZ,OAAO;EACP,QAAQ;EACR,MAAM;EACN,SAAS;EACT,cAAc;AAChB;;AAEA;EACE,kBAAkB;EAClB,gBAAgB;EAChB,iBAAiB;EACjB,mBAAmB;EACnB,kBAAkB;AACpB;;AAEA;EACE,kBAAkB;EAClB,gBAAgB;EAChB,eAAe;EACf,iBAAiB;EACjB,kBAAkB;EAClB,oBAAoB;AACtB;;AAEA;EACE,kBAAkB;EAClB,cAAc;AAChB;;AAEA;EACE,cAAc;EACd,OAAO;EACP,QAAQ;EACR,cAAc;EACd,cAAc;EACd,kBAAkB;EAClB,gBAAgB;EAChB,iBAAiB;EACjB,mBAAmB;EACnB,kBAAkB;EAClB,YAAY;EACZ,kCAAkC;EAClC,mBAAmB;EACnB,eAAe;EACf,mCAAmC;AACrC;;AAEA;EACE,kCAAkC;AACpC;;AAEA;EACE,aAAa;EACb,uBAAuB;EACvB,WAAW;EACX,kBAAkB;EAClB,kBAAkB;EAClB;;;;;GAKC;AACH;;AAEA;EACE,YAAY;EACZ,+CAA+C;EAC/C,kBAAkB;AACpB;;AAEA;EACE,kBAAkB;EAClB,gBAAgB;EAChB,kBAAkB;EAClB,oBAAoB;EACpB,kBAAkB;EAClB,mBAAmB;AACrB;;AAEA;EACE,aAAa;EACb,sBAAsB;EACtB,mBAAmB;EACnB,oBAAoB;AACtB","sourcesContent":[".heroSection {\n  position: relative;\n  color: var(--white);\n  width: 100%;\n  height: 46.5rem;\n  padding-top: 3.5rem;\n}\n\n.heroImage {\n  width: 100%;\n  height: 100%;\n}\n\n.heroPicture {\n  display: block;\n  width: 100%;\n  height: 100%;\n}\n\n.projectTitle {\n  position: absolute;\n  margin: auto;\n  left: 0;\n  right: 0;\n  top: 0;\n  bottom: 0;\n  height: 8.5rem;\n}\n\n.title {\n  font-style: italic;\n  font-weight: 700;\n  font-size: 4.5rem;\n  line-height: 4.5rem;\n  text-align: center;\n}\n\n.subtitle {\n  font-style: italic;\n  font-weight: 400;\n  font-size: 3rem;\n  line-height: 3rem;\n  text-align: center;\n  padding-top: 1.25rem;\n}\n\n.cta {\n  position: absolute;\n  bottom: 5.5rem;\n}\n\n.linkButton {\n  margin: 0 auto;\n  left: 0;\n  right: 0;\n  width: 23.5rem;\n  height: 3.5rem;\n  font-style: normal;\n  font-weight: 700;\n  font-size: 1.5rem;\n  line-height: 1.5rem;\n  text-align: center;\n  border: none;\n  background: var(--radial-gradient);\n  color: var(--white);\n  cursor: pointer;\n  transition: all 0.5s ease-in-out 0s;\n}\n\n.linkButton:hover {\n  background: var(--radial-gradient);\n}\n\n.featureSection {\n  display: flex;\n  justify-content: center;\n  width: 100%;\n  padding: 3.75rem 0;\n  text-align: center;\n  background: linear-gradient(\n    180deg,\n    rgba(232, 109, 198, 0.1) 0%,\n    rgba(232, 109, 198, 0.64248) 0.01%,\n    #bd00ff 77.6%\n  );\n}\n\n.featureSectionWrapper {\n  width: 65rem;\n  border-top: 2px solid rgba(255, 255, 255, 0.75);\n  padding: 3.75rem 0;\n}\n\n.featureTitle {\n  font-style: italic;\n  font-weight: 700;\n  font-size: 3.75rem;\n  line-height: 3.75rem;\n  text-align: center;\n  color: var(--white);\n}\n\n.featureItemContainer {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  padding-top: 3.75rem;\n}\n"],"sourceRoot":""}]);
 // Exports
 ___CSS_LOADER_EXPORT___.locals = {
 	"heroSection": `vHDqkUH8HtiZAy9ha2_f`,
 	"heroImage": `pis03fITVg9fBGtzbF4y`,
+	"heroPicture": `I3vVHHr9xb6z0XY27FAP`,
 	"projectTitle": `ZjypuEmPWJfig5nEn8KU`,
 	"title": `VhUFOywGiUzgWAEgFbEW`,
 	"subtitle": `MjGku9Bqn8OJdi_dQL8r`,
@@ -10153,6 +10160,27 @@ var bind_default = /*#__PURE__*/__webpack_require__.n(bind);
 /* harmony default export */ const images_find = (__webpack_require__.p + "static/find.gif");
 ;// ./src/assets/images/free.gif
 /* harmony default export */ const free = (__webpack_require__.p + "static/free.gif");
+;// ./src/components/Img/Img.tsx
+var __rest = (undefined && undefined.__rest) || function (s, e) {
+    var t = {};
+    for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p) && e.indexOf(p) < 0)
+        t[p] = s[p];
+    if (s != null && typeof Object.getOwnPropertySymbols === "function")
+        for (var i = 0, p = Object.getOwnPropertySymbols(s); i < p.length; i++) {
+            if (e.indexOf(p[i]) < 0 && Object.prototype.propertyIsEnumerable.call(s, p[i]))
+                t[p[i]] = s[p[i]];
+        }
+    return t;
+};
+
+const Img = (_a) => {
+    var { src, pictureClassName, alt } = _a, imageProps = __rest(_a, ["src", "pictureClassName", "alt"]);
+    const avifSrc = src.replace(/\.(?:png|jpe?g)(?=\?|#|$)/i, '.avif');
+    const webpSrc = src.replace(/\.(?:png|jpe?g)(?=\?|#|$)/i, '.webp');
+    return ((0,react_jsx_runtime_production_min_namespaceFn().jsxs)("picture", Object.assign({ className: pictureClassName }, { children: [(0,react_jsx_runtime_production_min_namespaceFn().jsx)("source", { srcSet: avifSrc, type: "image/avif" }), (0,react_jsx_runtime_production_min_namespaceFn().jsx)("source", { srcSet: webpSrc, type: "image/webp" }), (0,react_jsx_runtime_production_min_namespaceFn().jsx)("img", Object.assign({ src: src, alt: alt }, imageProps))] })));
+};
+/* harmony default export */ const Img_Img = (Img);
+
 ;// ./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js
 injectStylesIntoStyleTag_namespaceFn();
 
@@ -10418,10 +10446,11 @@ var Home_module_update = injectStylesIntoStyleTag_default()()(Home_module/* defa
 
 
 
+
 const cx = bind_default().bind(Home_Home_module);
 const Home_Home = () => {
     const wrapperRef = (0,react_production_min_namespaceFn().useRef)(null);
-    return ((0,react_jsx_runtime_production_min_namespaceFn().jsxs)((react_jsx_runtime_production_min_namespaceFn().Fragment), { children: [(0,react_jsx_runtime_production_min_namespaceFn().jsxs)("section", Object.assign({ className: Home_Home_module.heroSection }, { children: [(0,react_jsx_runtime_production_min_namespaceFn().jsx)("img", { className: Home_Home_module.heroImage, src: hero, alt: "hero image" }), (0,react_jsx_runtime_production_min_namespaceFn().jsxs)("div", Object.assign({ className: Home_Home_module.projectTitle }, { children: [(0,react_jsx_runtime_production_min_namespaceFn().jsx)("h1", Object.assign({ className: Home_Home_module.title }, { children: "Memegle" })), (0,react_jsx_runtime_production_min_namespaceFn().jsx)("h3", Object.assign({ className: Home_Home_module.subtitle }, { children: "gif search engine for you" }))] })), (0,react_jsx_runtime_production_min_namespaceFn().jsx)(Link, Object.assign({ to: "/search" }, { children: (0,react_jsx_runtime_production_min_namespaceFn().jsx)("button", Object.assign({ className: cx('cta', 'linkButton') }, { children: "start search" })) }))] })), (0,react_jsx_runtime_production_min_namespaceFn().jsxs)("section", Object.assign({ ref: wrapperRef, className: Home_Home_module.featureSection }, { children: [(0,react_jsx_runtime_production_min_namespaceFn().jsx)(AnimatedPath_AnimatedPath, { wrapperRef: wrapperRef }), (0,react_jsx_runtime_production_min_namespaceFn().jsxs)("div", Object.assign({ className: Home_Home_module.featureSectionWrapper }, { children: [(0,react_jsx_runtime_production_min_namespaceFn().jsx)("h2", Object.assign({ className: Home_Home_module.featureTitle }, { children: "Features" })), (0,react_jsx_runtime_production_min_namespaceFn().jsxs)("div", Object.assign({ className: Home_Home_module.featureItemContainer }, { children: [(0,react_jsx_runtime_production_min_namespaceFn().jsx)(FeatureItem_FeatureItem, { title: "See trending gif", imageSrc: trending }), (0,react_jsx_runtime_production_min_namespaceFn().jsx)(FeatureItem_FeatureItem, { title: "Find gif for free", imageSrc: images_find }), (0,react_jsx_runtime_production_min_namespaceFn().jsx)(FeatureItem_FeatureItem, { title: "Free for everyone", imageSrc: free })] })), (0,react_jsx_runtime_production_min_namespaceFn().jsx)(Link, Object.assign({ to: "/search" }, { children: (0,react_jsx_runtime_production_min_namespaceFn().jsx)("button", Object.assign({ className: Home_Home_module.linkButton }, { children: "start search" })) }))] }))] })), (0,react_jsx_runtime_production_min_namespaceFn().jsx)(CustomCursor_CustomCursor, { text: "memegle" })] }));
+    return ((0,react_jsx_runtime_production_min_namespaceFn().jsxs)((react_jsx_runtime_production_min_namespaceFn().Fragment), { children: [(0,react_jsx_runtime_production_min_namespaceFn().jsxs)("section", Object.assign({ className: Home_Home_module.heroSection }, { children: [(0,react_jsx_runtime_production_min_namespaceFn().jsx)(Img_Img, { pictureClassName: Home_Home_module.heroPicture, className: Home_Home_module.heroImage, src: hero, alt: "hero image" }), (0,react_jsx_runtime_production_min_namespaceFn().jsxs)("div", Object.assign({ className: Home_Home_module.projectTitle }, { children: [(0,react_jsx_runtime_production_min_namespaceFn().jsx)("h1", Object.assign({ className: Home_Home_module.title }, { children: "Memegle" })), (0,react_jsx_runtime_production_min_namespaceFn().jsx)("h3", Object.assign({ className: Home_Home_module.subtitle }, { children: "gif search engine for you" }))] })), (0,react_jsx_runtime_production_min_namespaceFn().jsx)(Link, Object.assign({ to: "/search" }, { children: (0,react_jsx_runtime_production_min_namespaceFn().jsx)("button", Object.assign({ className: cx('cta', 'linkButton') }, { children: "start search" })) }))] })), (0,react_jsx_runtime_production_min_namespaceFn().jsxs)("section", Object.assign({ ref: wrapperRef, className: Home_Home_module.featureSection }, { children: [(0,react_jsx_runtime_production_min_namespaceFn().jsx)(AnimatedPath_AnimatedPath, { wrapperRef: wrapperRef }), (0,react_jsx_runtime_production_min_namespaceFn().jsxs)("div", Object.assign({ className: Home_Home_module.featureSectionWrapper }, { children: [(0,react_jsx_runtime_production_min_namespaceFn().jsx)("h2", Object.assign({ className: Home_Home_module.featureTitle }, { children: "Features" })), (0,react_jsx_runtime_production_min_namespaceFn().jsxs)("div", Object.assign({ className: Home_Home_module.featureItemContainer }, { children: [(0,react_jsx_runtime_production_min_namespaceFn().jsx)(FeatureItem_FeatureItem, { title: "See trending gif", imageSrc: trending }), (0,react_jsx_runtime_production_min_namespaceFn().jsx)(FeatureItem_FeatureItem, { title: "Find gif for free", imageSrc: images_find }), (0,react_jsx_runtime_production_min_namespaceFn().jsx)(FeatureItem_FeatureItem, { title: "Free for everyone", imageSrc: free })] })), (0,react_jsx_runtime_production_min_namespaceFn().jsx)(Link, Object.assign({ to: "/search" }, { children: (0,react_jsx_runtime_production_min_namespaceFn().jsx)("button", Object.assign({ className: Home_Home_module.linkButton }, { children: "start search" })) }))] }))] })), (0,react_jsx_runtime_production_min_namespaceFn().jsx)(CustomCursor_CustomCursor, { text: "memegle" })] }));
 };
 /* harmony default export */ const pages_Home_Home = (Home_Home);
 
@@ -10634,7 +10663,7 @@ var __assign = undefined && undefined.__assign || function () {
   };
   return __assign.apply(this, arguments);
 };
-var __rest = undefined && undefined.__rest || function (s, e) {
+var iconBase_rest = undefined && undefined.__rest || function (s, e) {
   var t = {};
   for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p) && e.indexOf(p) < 0) t[p] = s[p];
   if (s != null && typeof Object.getOwnPropertySymbols === "function") for (var i = 0, p = Object.getOwnPropertySymbols(s); i < p.length; i++) {
@@ -10664,7 +10693,7 @@ function IconBase(props) {
     var attr = props.attr,
       size = props.size,
       title = props.title,
-      svgProps = __rest(props, ["attr", "size", "title"]);
+      svgProps = iconBase_rest(props, ["attr", "size", "title"]);
     var computedSize = size || conf.size || "1em";
     var className;
     if (conf.className) className = conf.className;
